@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivajith
 - 👀 I’m interested in exploring ML and its possibilities
-- 🌱 I’m currently learning Linear Algebra, Calculus and Probability
+- 🌱 I’m currently learning Linear Algebra, Calculus, Probability...
 - 💞️ I’m looking to collaborate on ML Projects leveraging Python
 - 📫 You can reach me at shivajithmutteal@gmail.com
 
